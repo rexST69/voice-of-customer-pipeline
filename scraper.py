@@ -23,7 +23,7 @@ import sys
 CREDENTIALS = {
     "CLIENT_ID": "YOUR_CLIENT_ID_HERE",
     "CLIENT_SECRET": "YOUR_CLIENT_SECRET_HERE",
-    "USER_AGENT": "script:my_ai_scraper:v1.0 (by /u/YOUR_USERNAME)"
+    "USER_AGENT": "script:xyz:v1.0 (by /u/YOUR_USERNAME)"
 }
 
 SEARCH_QUERY = "artificial intelligence"
