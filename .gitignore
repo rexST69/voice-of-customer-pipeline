@@ -1,0 +1,17 @@
+Ignore Data Files
+
+*.csv
+*.xlsx
+*.xls
+
+Ignore Images/Plots
+
+*.png
+*.jpg
+*.jpeg
+
+Ignore System Files
+
+pycache/
+.DS_Store
+.env
